@@ -178,135 +178,134 @@ div{
 
 <div id="global">
     
-    <div id="header"><br><br>
-    	<span class="titulos"><-HEADER-></span>
-    </div>
+<div id="header"><br><br>
+<span class="titulos"><-HEADER-></span>
+</div>
     
-    <div id="cuerpo">
+<div id="cuerpo">
     
-    	<div id="nav">
-        	<span class="titulos"><b><-NAV-></b></span>
-        </div>
+<div id="nav">
+<span class="titulos"><b><-NAV-></b></span>
+</div>
         
-        <div id="main">
-     	   <span class="titulos"><b><-MAIN-></b></span>
-           <br />
+<div id="main">
+<span class="titulos"><b><-MAIN-></b></span>
+<br />
 			
-            <div id="sub_cuerpo1" class="subcuerpo etiquetas_sub">
+<div id="sub_cuerpo1" class="subcuerpo etiquetas_sub">
             	
-                <div class="div_margin">
+<div class="div_margin">
             
-                    <div id="header_sub1" class="header_sub etiquetas_sub">
-                    	<div id="titulo_sub" class="titulo_sub etiquetas_sub">Titulo
-                    	</div>  
-                    	<div id="time1" class="time1 etiquetas_sub"><datatime="2016-22-15T12:00-5:00">Solo Fecha</time>
-                    	</div>              
-                    </div>
+<div id="header_sub1" class="header_sub etiquetas_sub">
+<div id="titulo_sub" class="titulo_sub etiquetas_sub">Titulo
+</div>  
+<div id="time1" class="time1 etiquetas_sub"><datatime="2016-22-15T12:00-5:00">Solo Fecha</time>
+</div>              
+</div>
                     
-                    <div id="contenido_sub1" class="contenido_sub etiquetas_sub">                
-                    </div>
+<div id="contenido_sub1" class="contenido_sub etiquetas_sub">                
+</div>
                     
-                    <div id="footer_sub1" class="footer_sub etiquetas_sub">(Etiquetas)                
-                    </div>
+<div id="footer_sub1" class="footer_sub etiquetas_sub">(Etiquetas)                
+</div>
                     
-                    <div id="articule_sub1" class="articule_sub etiquetas_sub">
-                    	<div id="time1" class="time2 etiquetas_sub"><datatime="2016-22-15T12:00-5:00">Fecha + Hora</time>
-                    	</div> 
-                    	<div id="titulo_sub" class="contenido_comentario etiquetas_sub">Contenido del comnetario
-                    	</div>  
+<div id="articule_sub1" class="articule_sub etiquetas_sub">
+<div id="time1" class="time2 etiquetas_sub"><datatime="2016-22-15T12:00-5:00">Fecha + Hora</time>
+</div> 
+<div id="titulo_sub" class="contenido_comentario etiquetas_sub">Contenido del comnetario
+</div>  
+                    	 
+</div>
+
+<div id="articule_sub2" class="article etiquetas_sub">Otro Comentario
+
+</div>
+                    
+<div id="input_sub1" class="input_sub etiquetas_sub"><input type="button" value="Comentar">                
+</div>
+                
+</div>
+                
+</div>
+            
+<div id="sub_cuerpo2" class="subcuerpo">
+
+<div class="div_margin">
+            
+<div id="header_sub1" class="header_sub etiquetas_sub">
+<div id="titulo_sub" class="titulo_sub etiquetas_sub">Titulo
+</div>  
+<div id="time1" class="time1 etiquetas_sub"><datatime="2016-22-15T12:00-5:00">Solo Fecha</time>
+</div>              
+</div>
+                    
+<div id="contenido_sub1" class="contenido_sub etiquetas_sub">                
+</div>
+                    
+<div id="footer_sub1" class="footer_sub etiquetas_sub">(Etiquetas)                
+</div>
+                    
+<div id="articule_sub1" class="articule_sub etiquetas_sub">
+<div id="time1" class="time2 etiquetas_sub"><datatime="2016-22-15T12:00-5:00">Fecha + Hora</time>
+</div> 
+<div id="titulo_sub" class="contenido_comentario etiquetas_sub">Contenido del comnetario
+</div>  
                     	 
 
-                    </div>
+</div>
 
-                    <div id="articule_sub2" class="article etiquetas_sub">Otro Comentario
+<div id="articule_sub2" class="article etiquetas_sub">Otro Comentario
 
-                    </div>
+</div>
                     
-                    <div id="input_sub1" class="input_sub etiquetas_sub"><input type="button" value="Comentar">                
-                    </div>
+<div id="input_sub1" class="input_sub etiquetas_sub"><input type="button" value="Comentar">                
+</div>
                 
-                </div>
-                
-            </div>
+</div>
+</div>
             
-            <div id="sub_cuerpo2" class="subcuerpo">
+<div id="sub_cuerpo3" class="subcuerpo">
 
-            <div class="div_margin">
+<div class="div_margin">
             
-                    <div id="header_sub1" class="header_sub etiquetas_sub">
-                    	<div id="titulo_sub" class="titulo_sub etiquetas_sub">Titulo
-                    	</div>  
-                    	<div id="time1" class="time1 etiquetas_sub"><datatime="2016-22-15T12:00-5:00">Solo Fecha</time>
-                    	</div>              
-                    </div>
+<div class="div_margin">
+            
+<div id="header_sub1" class="header_sub etiquetas_sub">
+<div id="titulo_sub" class="titulo_sub etiquetas_sub">Titulo
+</div>  
+<div id="time1" class="time1 etiquetas_sub"><datatime="2016-22-15T12:00-5:00">Solo Fecha</time>
+</div>              
+</div>
                     
-                    <div id="contenido_sub1" class="contenido_sub etiquetas_sub">                
-                    </div>
+<div id="contenido_sub1" class="contenido_sub etiquetas_sub">                
+</div>
                     
-                    <div id="footer_sub1" class="footer_sub etiquetas_sub">(Etiquetas)                
-                    </div>
-                    
-                    <div id="articule_sub1" class="articule_sub etiquetas_sub">
-                    	<div id="time1" class="time2 etiquetas_sub"><datatime="2016-22-15T12:00-5:00">Fecha + Hora</time>
-                    	</div> 
-                    	<div id="titulo_sub" class="contenido_comentario etiquetas_sub">Contenido del comnetario
-                    	</div>  
+<div id="footer_sub1" class="footer_sub etiquetas_sub">(Etiquetas)                
+</div>
+
+<div id="articule_sub1" class="articule_sub etiquetas_sub">
+<div id="time1" class="time2 etiquetas_sub"><datatime="2016-22-15T12:00-5:00">Fecha + Hora</time>
+</div> 
+<div id="titulo_sub" class="contenido_comentario etiquetas_sub">Contenido del comnetario
+</div>  
                     	 
 
-                    </div>
+</div>
 
-                    <div id="articule_sub2" class="article etiquetas_sub">Otro Comentario
+<div id="articule_sub2" class="article etiquetas_sub">Otro Comentario
 
-                    </div>
-                    
-                    <div id="input_sub1" class="input_sub etiquetas_sub"><input type="button" value="Comentar">                
-                    </div>
+</div>
+
+<div id="input_sub1" class="input_sub etiquetas_sub"><input type="button" value="Comentar">                
+</div>
                 
-                </div>
-            </div>
-            
-            <div id="sub_cuerpo3" class="subcuerpo">
-
-             <div class="div_margin">
-            
-                   <div class="div_margin">
-            
-                    <div id="header_sub1" class="header_sub etiquetas_sub">
-                    	<div id="titulo_sub" class="titulo_sub etiquetas_sub">Titulo
-                    	</div>  
-                    	<div id="time1" class="time1 etiquetas_sub"><datatime="2016-22-15T12:00-5:00">Solo Fecha</time>
-                    	</div>              
-                    </div>
-                    
-                    <div id="contenido_sub1" class="contenido_sub etiquetas_sub">                
-                    </div>
-                    
-                    <div id="footer_sub1" class="footer_sub etiquetas_sub">(Etiquetas)                
-                    </div>
-                    
-                    <div id="articule_sub1" class="articule_sub etiquetas_sub">
-                    	<div id="time1" class="time2 etiquetas_sub"><datatime="2016-22-15T12:00-5:00">Fecha + Hora</time>
-                    	</div> 
-                    	<div id="titulo_sub" class="contenido_comentario etiquetas_sub">Contenido del comnetario
-                    	</div>  
-                    	 
-
-                    </div>
-
-                    <div id="articule_sub2" class="article etiquetas_sub">Otro Comentario
-
-                    </div>
-                    
-                    <div id="input_sub1" class="input_sub etiquetas_sub"><input type="button" value="Comentar">                
-                    </div>
+</div>
                 
-                </div>
-                
-            </div>
+</div>
                        
-        </div>
+</div>
         
-    </div>
+</div>
     
 </div>
 
