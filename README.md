@@ -5,12 +5,14 @@
 <title>Reto 1 de Frontend</title>
 </head>
 <style type="text/css">
+
 #global{
 	width:80%;
 	margin:0 auto;	
 	background-color: white;
 	height:auto;
 }
+
 #header{
 	width:100%;
 	margin:0 auto;
