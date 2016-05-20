@@ -310,7 +310,7 @@ div{
     
 </div>
 
-	<div id="footer"><br><br>
+<div id="footer"><br><br>
     	<span class="titulos"><b><-FOOTER-></b></span>
     	</div>
 
